@@ -19,6 +19,7 @@ namespace Metody18
         string[] poleretezcu = { "pes", "skakal", "pres", "oves" };
         private static bool Existuje(string poleretezcu)
         {
+            int nejdelsiPrvek
             for(int i = 0; i < poleretezcu.Length;i++)
             {
                 
